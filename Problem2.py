@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.next = next
 
-#starting both after advancing longer ll head by the difference of lengths
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         """
